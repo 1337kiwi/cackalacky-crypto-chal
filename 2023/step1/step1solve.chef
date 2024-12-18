@@ -1,0 +1,5 @@
+Parse_QR_Code(false/disabled)
+From_Base64('A-Za-z0-9+/=',true,false)
+From_Binary('Space',8)
+Vigenère_Decode('lime')
+ 

@@ -1,0 +1,5 @@
+To_Lower_case('What happens on Walpole Island stays on Walpole Island')
+Vigenère_Encode('lime')
+To_Binary('Space',8)
+To_Base64('A-Za-z0-9+/=')
+Generate_QR_Code('PNG',12,11,'Medium')

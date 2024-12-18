@@ -1,0 +1,1 @@
+The hint for this here is "Walpole Island". Ojibwe is a language spoken there, a google search will tell you this. There is also the allusion to vegas, which is used later.  
